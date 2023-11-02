@@ -1,4 +1,4 @@
-const { loadBooks } = require('./ex.js');
+const { loadBooks } = require('./josesousa.js');
 
 function BookStorage(ownerName) {
     this.favoriteBooks = [];
